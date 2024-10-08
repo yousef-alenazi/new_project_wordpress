@@ -1,0 +1,27 @@
+.footer{
+    background-color: rgb(19, 134, 19);
+    padding: 12px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+body{
+    background-color:rgba(206, 207, 206, 0.818);
+}
+.main-post{
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #d8d8d8;
+    margin-bottom: 5px;
+}
+.main-post h3{
+    margin: 0 0 10px;
+    font-weight: bold;
+    color: #534b4b;
+    letter-spacing: 1px;
+}
+.main-post img{
+    display: block;
+    margin: 10px 0 10px;
+}
